@@ -79,4 +79,8 @@ padding: 24px 0;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
-.rodape {}
+.rodape {
+    background-color: cadetblue;
+    color: ghostwhite;
+    text-align: center;
+}
